@@ -5,7 +5,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently atudying in **[Chitkara University](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently  in **[Chitkara University](https://covid-19-tracker-e4bda.web.app/)**
 
 - 🌱 I’m currently learning **Coding Languages.**
 
